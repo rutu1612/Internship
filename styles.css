@@ -1,0 +1,37 @@
+.calc-box{
+    background-color: #334d4d;
+    margin-left: 35%;
+    margin-top: 4%;
+	width: 33%;
+	height: 70%;
+	border-radius: 20px;
+}
+.header-box{
+    background-color: white;
+    width: 84%;
+	height:26%;
+    position: relative;
+    top: 3%;
+    left: 8%;
+    border-radius: 10px;
+    font-size: x-large;
+    text-align:end;
+    font-weight: bold;
+    
+}
+table{
+    background-color: #DCE0DF ;
+    width: 84%;
+	height:59%;
+    margin-top: 8%;
+    margin-left: 7.5%;
+    border-radius: 10px;
+}
+td{
+	width: 59px;
+    color: black;
+	text-align: center;
+	font-size: x-large;
+    
+    
+}
